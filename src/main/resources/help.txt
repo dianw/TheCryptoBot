@@ -1,3 +1,12 @@
+Base64
 /base64encode <plaintext> - encodes text to base64
 /base64decode <base64> - decodes base64 to text
+
+Message Digest
+/md5 <text> - calculates MD5 hash
+/sha1 <text> - calculates SHA-1 hash
+/sha256 <text> - calculates SHA-256 hash
+/sha384 <text> - calculates SHA-384 hash
+/sha512 <text> - calculates SHA-512 hash
+
 /help - shows this help
