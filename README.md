@@ -1,5 +1,5 @@
 # TheCryptoBot
-Handy cryptography toolkit on Telegram.
+Handy cryptography toolkit on Telegram. https://telegram.me/TheCryptoBot
 
 ## Building
 TheCryptoBot is written in Java. It uses Spring Boot and Bouncy Castle library for cryptography.
