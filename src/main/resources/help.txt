@@ -9,4 +9,7 @@ Message Digest
 /sha384 <text> - calculates SHA-384 hash
 /sha512 <text> - calculates SHA-512 hash
 
+Asymmetric Key Generation
+/rsagen [keylength] - generates RSA key pair in PEM format
+
 /help - shows this help
