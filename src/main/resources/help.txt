@@ -11,5 +11,6 @@ Message Digest
 
 Asymmetric Key Generation
 /rsagen [keylength] - generates RSA key pair in PEM format
+/dsagen [keylength] - generates DSA key pair in PEM format
 
 /help - shows this help
