@@ -1,0 +1,1 @@
+java: java -jar target/*.jar -Dtelegram.bot.token=${TELEGRAM_BOT_TOKEN}
